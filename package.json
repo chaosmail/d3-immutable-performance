@@ -1,0 +1,33 @@
+{
+  "name": "d3-immutable",
+  "version": "0.0.1",
+  "description": "Performance Test of D3.js with Immutable.js data strutctures",
+  "main": "index.html",
+  "dependencies": {
+    "d3": "^3.5.12",
+    "immutable": "^3.7.6"
+  },
+  "devDependencies": {
+    "d3": "^3.5.12",
+    "immutable": "^3.7.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosmail/d3-immutable-performance.git"
+  },
+  "keywords": [
+    "D3",
+    "Immutable",
+    "Performance",
+    "Test"
+  ],
+  "author": "Christoph Koerner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaosmail/d3-immutable-performance/issues"
+  },
+  "homepage": "https://github.com/chaosmail/d3-immutable-performance#readme"
+}
